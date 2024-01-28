@@ -6,3 +6,23 @@
 html {
     background-color: orange;
 }
+
+h1 {
+    color: white;
+    font-size: 60px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+p {
+    color: white;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+img {
+    margin-left: 20px;
+    margin-top: 40px;
+    width: 40%;
+}
